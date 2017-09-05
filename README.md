@@ -38,6 +38,6 @@ Vue.use(svgicon, {
 </script>
 
 <template>
-  <icon name="new-icon-name" width="20" height="20"></icon>
+  <icon name="airplane" width="20" height="20"></icon>
 </template>
 ```
