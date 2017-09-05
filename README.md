@@ -1,6 +1,6 @@
 # iconic
 
-> Simple SVG icon example.
+> Loading SVG icons with Vue.js.
 
 ## Build Setup
 
