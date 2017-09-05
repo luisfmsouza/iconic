@@ -1,4 +1,9 @@
-# iconic
+<h1 align="center">
+	<br>
+	<img width="400" src="./media/example.png" alt="Loading SVG icons with Vue.js">
+</h1>
+
+# Iconic
 
 > Loading SVG icons with Vue.js.
 
