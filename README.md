@@ -30,7 +30,7 @@ yarn svg
 ```
 
 3. Import and use generated icons:
-```
+```html
 <script>
 [...]
 import * as svgicon from 'vue-svgicon'
