@@ -19,12 +19,12 @@ yarn build
 
 1. Place your svg on `icon-svg` folder.
 
-2.
+2. Transform icons from SVG to JS a file:
 ```
 yarn svg
 ```
 
-3.
+3. Import and use generated icons:
 ```
 <script>
 [...]
