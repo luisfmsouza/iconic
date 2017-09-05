@@ -1,3 +1,4 @@
+import 'vue-svgicon/dist/polyfill';
 import Vue from 'vue';
 import * as svgicon from 'vue-svgicon';
 import App from './App.vue';
