@@ -1,10 +1,11 @@
 <template>
   <div id="app">
-    <h2>Loading SVG icons with Vue.js:</h2>
+    <h1>Loading SVG icons with Vue.js</h1>
+    <small>My passions: </small>
 
-    <img src="src/assets/icons/airplane.svg" alt="Airplane icon">
-    <img src="src/assets/icons/beer.svg" alt="Beer icon">
-    <img src="src/assets/icons/heart.svg" alt="Heart icon">
+    <icon name="airplane" width="50" height="50" color="#263238"></icon>
+    <icon name="heart" width="50" height="50" color="#b71c1c"></icon>
+    <icon name="beer" width="50" height="50" color="#F9A825"></icon>
   </div>
 </template>
 
